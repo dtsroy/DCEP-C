@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/1">
+        <file>computer1.png</file>
+        <file>computer2.png</file>
+    </qresource>
+</RCC>
