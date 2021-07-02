@@ -75,22 +75,6 @@ color:rgb(237, 125, 49)</string>
      <string>support Windows </string>
     </property>
    </widget>
-   <widget class="QLabel" name="label_3">
-    <property name="geometry">
-     <rect>
-      <x>640</x>
-      <y>550</y>
-      <width>401</width>
-      <height>51</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">font: 12pt &quot;Microsoft YaHei UI&quot;;</string>
-    </property>
-    <property name="text">
-     <string>support Windows 7/8/10/11</string>
-    </property>
-   </widget>
    <widget class="QLabel" name="label_4">
     <property name="geometry">
      <rect>
